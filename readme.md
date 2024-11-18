@@ -1,0 +1,3 @@
+This is a video hosting website that figures out which tracks are in the uploaded videos using AI. The linked videos are listed below the video. The website checks users' licenses to confirm their eligibility to listen to the included tracks. If not eligible, the tracks are silenced. In this way, users are incentivised to purchase tracks that are linked to below the video.
+
+Current status: work in progress
