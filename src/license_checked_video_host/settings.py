@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'corsheaders',
+    'license_checked_video_host',
 ]
 
 MIDDLEWARE = [
@@ -136,4 +137,4 @@ SIMPLE_JWT = {
     'REFRESH_TOKEN_LIFETIME': datetime.timedelta(days=14),
 }
 
-#AUTH_USER_MODEL = "license_checked_video_host.User"
+AUTH_USER_MODEL = "license_checked_video_host.User"
